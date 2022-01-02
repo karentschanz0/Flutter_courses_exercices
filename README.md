@@ -1,8 +1,8 @@
 # Flutter Courses Code
 
-Find all code from the courses of [Udemy Flutter Dart Edition 2022](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps)
+Find all exercices from the courses of [Udemy Flutter Dart Edition 2022](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps)
 
-- 01 Quiz app
+- 01 Create a new project with a AppBar, Button and Text
 
 ## Getting Started
 
